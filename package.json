@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"gustavo",
 	"description": "Proyecto de prueba para aprender a usar npm y package.json",
+	"keywords": [ "descriptive", "related", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
